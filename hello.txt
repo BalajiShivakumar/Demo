@@ -12,5 +12,4 @@ change in local repo
 Hello Mr.Balaji
 
 
-Hi Balaji
->>>>>>> f19513cffd0aa13f1c3f249ed9873543bbbc75fc
+
