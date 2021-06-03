@@ -4,6 +4,13 @@ update made here
 =======
 update made in server
 >>>>>>> b40a720a8662c24fb238acb40c14b9587f25d823
+<<<<<<< HEAD
 
 =========
 change in local repo
+=======
+Hello Mr.Balaji
+
+
+Hi Balaji
+>>>>>>> f19513cffd0aa13f1c3f249ed9873543bbbc75fc
